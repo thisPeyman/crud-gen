@@ -1,4 +1,4 @@
-module git.snapp.ninja/go-utility/gocrud-gen
+module github.com/thisPeyman/gocrud-gen
 
 go 1.24.5
 
